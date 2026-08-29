@@ -6,6 +6,6 @@ Matrícula: 927905
 
 ![image1-requisicao-git](images/requisicao-pagina-git.png)
 
-![image2-requisicao-git](images/requisicao-pagina-git2.png)
+![image2-requisicao-git](images/requisicao-pagina-git-2.png)
 
-![pagina-html](images/requisicao-pagina-git.png)
+![pagina-html](images/pagina-semana2.png)
